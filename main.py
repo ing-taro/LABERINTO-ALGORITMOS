@@ -1,6 +1,6 @@
 import time
 import math
-from collections import deque 
+from collections import deque
 
 # Laberintos como lista de listas
 MAZES = {
