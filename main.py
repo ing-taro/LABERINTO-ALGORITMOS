@@ -1,4 +1,4 @@
-#NEIZAN ROGGIE MARTINEZ
+
 import time #para calcular en ms
 import math #cuentas de mayor complejidad
 import heapq #para manejar colas de prioridad
